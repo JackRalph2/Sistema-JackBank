@@ -5,7 +5,8 @@
 ### Apresento a vocês o novo banco digital Jack's Bank!
 
 Esse pequeno algoritmo foi criado para estudos.
-É possível realizar depósitos, saques e até verificar seu extrato completo!
+
+Nele é possível realizar depósitos, saques e até verificar seu extrato completo!
 
 
 ---
