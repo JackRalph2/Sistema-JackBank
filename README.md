@@ -12,7 +12,7 @@ Nele é possível realizar depósitos, saques e até verificar seu extrato compl
 ---
 &nbsp;
 # **Objetivo**
-O objetivo da criação desse projeto é o aperfeiçoamento no estudo da programação na linguagem Python.
+O objetivo da criação desse projeto é o estudo da linguagem Python e a busca pelo aperfeiçoamento constante.
 
 ---
 
